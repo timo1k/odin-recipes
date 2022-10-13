@@ -6,7 +6,7 @@ p {
 .images {
   margin-top: 5px;
   margin-right: 5px;
-  cursor: pointer;
+  margin-bottom: 0;
 }
 
 .apple {
