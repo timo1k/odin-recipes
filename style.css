@@ -5,19 +5,17 @@ p {
 }
 .images {
   margin-top: 5px;
+  margin-right: 5px;
 }
 .apple {
   height: 333px;
   width: 500px;
-  margin-top: 5px;
+
   object-fit: cover;
-  margin-bottom: 5px;
 }
 .veggies {
   height: 332px;
   width: 500px;
-  margin-top: 5px;
-  margin-left: 5px;
   object-fit: cover;
 }
 .home-button {
